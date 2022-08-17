@@ -1,0 +1,6 @@
+fish food china 2005 2010 100 5
+meat food brazil 2000 2002 100 5
+juice drink egypt 2014 2020 100 6
+tramadol None sudan 2012 2022 100 8
+cake None france 2020 2023 100 14
+anticorona medicine china 2020 2023 100 10
